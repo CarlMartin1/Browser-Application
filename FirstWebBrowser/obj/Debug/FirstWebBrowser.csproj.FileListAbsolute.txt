@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\FirstWebBrowser\FirstWebBrowser\bin\Debug\FirstWebBrowser.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FirstWebBrowser\FirstWebBrowser\bin\Debug\FirstWebBrowser.exe
+c:\users\user\documents\visual studio 2015\Projects\FirstWebBrowser\FirstWebBrowser\bin\Debug\FirstWebBrowser.pdb
+c:\users\user\documents\visual studio 2015\Projects\FirstWebBrowser\FirstWebBrowser\obj\Debug\FirstWebBrowser.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\FirstWebBrowser\FirstWebBrowser\obj\Debug\FirstWebBrowser.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\FirstWebBrowser\FirstWebBrowser\obj\Debug\FirstWebBrowser.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\FirstWebBrowser\FirstWebBrowser\obj\Debug\FirstWebBrowser.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\FirstWebBrowser\FirstWebBrowser\obj\Debug\FirstWebBrowser.exe
+c:\users\user\documents\visual studio 2015\Projects\FirstWebBrowser\FirstWebBrowser\obj\Debug\FirstWebBrowser.pdb
